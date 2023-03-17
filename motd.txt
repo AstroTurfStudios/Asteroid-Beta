@@ -1,1 +1,4 @@
 Welcome To The Asteroid Beta!
+
+There should only be a select group of people who have access to this beta, so if you believe that this is a mistake, please report it to _H_
+#4949
